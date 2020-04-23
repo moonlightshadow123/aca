@@ -11,7 +11,7 @@ My grandma (mother's mother). She passed away in 2010. She raised me when I was 
 - `choose_cats`,`choose_secs`,`choose_tags`,`choose_sent`  to select entries.
 - `dis`,`dis_cats`, `dis_tags` to display currently active data, categories, and tags.
 
-![pic](screenshot/shot.png)
+![pic](screenshot/shot.PNG)
 
 # Future Functionality
 
